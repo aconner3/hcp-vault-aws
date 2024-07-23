@@ -1,2 +1,2 @@
-# hcp-vault-aws
-HCP Vault on AWS Terraform module 
+# Deploy HCP Vault on AWS using Terraform 
+
